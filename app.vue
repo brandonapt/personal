@@ -15,7 +15,7 @@
           <div>
             <div class="flex justify-center underline">
               <Icon name="ic:baseline-discord" class="mt-0.5" size="24" />
-              <a>   @brandonns.</a>
+              <a>   @brandonap.</a>
             </div>
             <div class="flex justify-center underline">
               <Icon name="mdi:github" class="mt-0.5" size="24" />
