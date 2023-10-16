@@ -6,7 +6,7 @@
           <div class="avatar mx-auto">
             <div class="w-24 rounded-full">
               <img
-                src="https://cdn.discordapp.com/avatars/785248634458996767/3a15307aa22bb327b0975846269620ce?size=1024"
+                src="https://avatars.githubusercontent.com/u/63559800?v=4"
               />
             </div>
           </div>
@@ -36,7 +36,7 @@
 <style>
 /* make the background a linear gradient with these two colors: rgba(233,166,193,1) and  rgba(255,255,255,1) (make it the whole page background) */
 html {
-  background: linear-gradient(rgba(255, 255, 255, 1), rgba(233, 166, 193, 1));
+  background: linear-gradient(rgba(255, 255, 255, 1), rgba(52, 235, 107, 1));
   height: 100%;
   margin: 0;
   padding: 0;
