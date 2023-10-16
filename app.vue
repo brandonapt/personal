@@ -36,7 +36,7 @@
 <style>
 /* make the background a linear gradient with these two colors: rgba(233,166,193,1) and  rgba(255,255,255,1) (make it the whole page background) */
 html {
-  background: linear-gradient(rgba(255, 255, 255, 1), rgba(52, 235, 107, 1));
+  background: linear-gradient(rgba(255, 255, 255, 1), rgba(186,168,149, 1));
   height: 100%;
   margin: 0;
   padding: 0;
