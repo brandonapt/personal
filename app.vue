@@ -10,7 +10,7 @@
               />
             </div>
           </div>
-          <h2 class="card-title text-center mx-auto">@brandonns.</h2>
+          <h2 class="card-title text-center mx-auto">@brandonapt</h2>
           <p class="text-center">fullstack nuxt and lua game developer</p>
           <div>
             <div class="flex justify-center underline">
